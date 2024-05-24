@@ -1,0 +1,5 @@
+node_modules/
+screenshot/
+dist/
+screenshot.png
+.env
